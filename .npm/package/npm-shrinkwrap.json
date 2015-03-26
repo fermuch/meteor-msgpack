@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "msgpack": {
+      "version": "0.2.4",
+      "dependencies": {
+        "nan": {
+          "version": "1.0.0"
+        }
+      }
+    }
+  }
+}
